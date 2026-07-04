@@ -143,12 +143,4 @@ and while calling the funtion if nthg is passed by default True, or False when p
     password_checker(password)
     password_checker(password, False)
 
-Things to do:
-menu driven - done
-at the start of each tool, 1 intro statement - done 
-in checker, if weak password ask if they want help of generator - done
-also in generator, after generating password ask if they want to check strength - done
-if length in password wrong take input again - done 
-same for if choice wrong - checker, generator, exit - done 
-change folder name 
 """
