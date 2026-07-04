@@ -7,7 +7,8 @@ A simple toolkit built in Python that consists of tools to evaluate and generate
 - Generate a password based on conditions entered by the user
 
 ## Tech Stack
-- Language: Python
+- Language: `Python`
+- Libraries: `string`, `random`
 
 ## How to Run
 ```bash
