@@ -42,7 +42,7 @@ python main.py
 - The strength checker prints the strength level along with specific suggestions for any missing conditions (e.g. "Password should contain at least 1 number")
 - The generator prints the final generated password
 
-## What I Learned
+## What I Learnt
 - Using the `string` module's constants (`string.ascii_lowercase`, `string.ascii_uppercase`, `string.digits`, `string.punctuation`) to build a character pool for password generation
 - Using `random.choice()` to randomly sample characters from the pool
 - Using `sum()` on a list of boolean conditions to score password strength
